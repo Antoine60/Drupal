@@ -26,8 +26,8 @@ libraries:
   - nexus/global-css
   - nexus/global-js
 
-# Information added by Drupal.org packaging script on 2017-05-26
-version: '8.x-1.0'
+# Information added by Drupal.org packaging script on 2017-11-19
+version: '8.x-1.1'
 core: '8.x'
 project: 'nexus'
-datestamp: 1495794496
+datestamp: 1511082187
